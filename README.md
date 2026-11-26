@@ -6,7 +6,8 @@ The HR Analytics Dashboard is an interactive Power BI project designed to analyz
 This dashboard helps visualize key HR metrics and supports data-driven workforce analysis.
 
 ## Dashboard Preview
-![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
+<img width="1035" height="847" alt="Dashoard" src="https://github.com/user-attachments/assets/186c1c27-739c-448c-8a7c-6613f22575bc" />
+
 
 ## Key Performance Indicators (KPIs)
 - **Total Employees:** 500
